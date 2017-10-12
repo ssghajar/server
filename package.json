@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssghajar/server.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs"
+  ],
+  "author": "Shervin Ghajar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssghajar/server/issues"
+  },
+  "homepage": "https://github.com/ssghajar/server#readme"
+}
